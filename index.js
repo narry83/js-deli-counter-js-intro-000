@@ -37,8 +37,6 @@ function currentLine(katzDeliLine){
 
   return message
 
-=======
-
 function takeANumber(katzDeliLine, Name){
 
   return (katzDeliLine.length +"th in line")
