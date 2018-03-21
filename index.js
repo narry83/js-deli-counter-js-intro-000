@@ -1,4 +1,5 @@
 var katzDeli = [];
+<<<<<<< HEAD
 var katzDeliLine=[];
 
 function takeANumber(katzDeliLine, Name){
@@ -36,4 +37,10 @@ function currentLine(katzDeliLine){
 
   return message
 
+=======
+
+function takeANumber(katzDeliLine, Name){
+
+  return (katzDeliLine.length +"th in line")
+>>>>>>> 92425767e3e810ab72ca01c125aafba61f45aa73
 }
