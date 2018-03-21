@@ -33,9 +33,9 @@ function currentLine(katzDeliLine){
     message="The line is currently empty."
       }
 
-
-
   return message
+}
+
 
 function takeANumber(katzDeliLine, Name){
 
